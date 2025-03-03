@@ -1,5 +1,7 @@
 [package]
 name = "aoc_2024"
+authors = ["Cody Simons <csimo005@ucr.edu>"]
+readme = "README.md"
 version = "0.1.0"
 edition = "2021"
 
